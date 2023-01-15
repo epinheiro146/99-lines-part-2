@@ -1,0 +1,18 @@
+body {
+    background-color: navy;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: lavender;
+    text-align: center;
+}
+
+.friend {
+    background-color: aquamarine;
+}
+
+h3 {
+    text-transform: uppercase;
+    text-decoration: underline;
+}
